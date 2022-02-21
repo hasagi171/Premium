@@ -19,9 +19,9 @@ ___logo___ = (f"""{H} ___ ___ ___ __  __ ___ _   _ __  __
 {B}|  _/   / _|| |\/| || || |_| | |\/| |
 {B}|_| |_|_\___|_|  |_|___|\___/|_|  |_|
 {K}[{P}•{K}]{P}——————————————————————————————
-{H}[{P}>{H}]{P} Au : rozhak
-{H}[{P}>{H}]{P} Ig : @rozhak_official
-{H}[{P}>{H}]{P} Fb : fb.com/rozhak.xyz
+{H}[{P}>{H}]{P} Au : Marsel Hasagi
+{H}[{P}>{H}]{P} Ig : Marsel_hasagi24
+{H}[{P}>{H}]{P} Fb : Kzr Gaming
 {K}[{P}•{K}]{P}——————————————————————————————
 """)
 # Login Cookie
